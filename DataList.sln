@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalist", "DataList3\Datalist.csproj", "{E59C1C00-2315-4124-99F8-3F909DD92C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugLib", "DebugLib\DebugLib\DebugLib.csproj", "{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32Lib", "Win32Lib\Win32Lib\Win32Lib.csproj", "{578AE762-8906-4817-9319-847AA86D8118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Debug|x86.ActiveCfg = Debug|x86
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Debug|x86.Build.0 = Debug|x86
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Release|x86.ActiveCfg = Release|x86
+		{E59C1C00-2315-4124-99F8-3F909DD92C08}.Release|x86.Build.0 = Release|x86
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Debug|x86.ActiveCfg = Debug|x86
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Debug|x86.Build.0 = Debug|x86
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Release|x86.ActiveCfg = Release|x86
+		{EFA5F4FC-02E2-4E7F-AD68-9DEA77F6A39E}.Release|x86.Build.0 = Release|x86
+		{578AE762-8906-4817-9319-847AA86D8118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578AE762-8906-4817-9319-847AA86D8118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578AE762-8906-4817-9319-847AA86D8118}.Debug|x86.ActiveCfg = Debug|x86
+		{578AE762-8906-4817-9319-847AA86D8118}.Debug|x86.Build.0 = Debug|x86
+		{578AE762-8906-4817-9319-847AA86D8118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578AE762-8906-4817-9319-847AA86D8118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578AE762-8906-4817-9319-847AA86D8118}.Release|x86.ActiveCfg = Release|x86
+		{578AE762-8906-4817-9319-847AA86D8118}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
